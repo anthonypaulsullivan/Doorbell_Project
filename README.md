@@ -8,3 +8,7 @@ Purpose: For remote areas and/or hearing impaired to have a small program runnin
 
 3. The program should remain quiet if signals have been announced but keep scanning in the background and only announce new signals not in database or known signals not seen for one hour
 
+
+
+Packages/Requirments: 
+pip install pywifi pyttsx3 pillow pystray comtypes 
