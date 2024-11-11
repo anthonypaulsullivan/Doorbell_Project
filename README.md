@@ -1,6 +1,7 @@
 # Doorbell_Project
-Create an App that alerts when a phone signal is detected and plays a message with the name if known
-Purpose: For remote areas and/or hearing impaired to have a small program running that alerts them to visitors approaching
+Create an App that alerts when a phone signal is detected and plays a message with the name if known. Mainly for hearing impaired, people living remotely and distracted gamers.
+
+(Testers needed. I live in remote location. Tried first version in town and found a lot of signals so know it works. Maybe I'll address that later as it's meant for people without dogs to notify them of someone (or a stranger if i can add a known signals part) approaching their house.)
 
 1. App needs to prompt for names of discovered wifi signal or signals at first use then check db at next startup for those signals and ignoring them as seperate home signals
 
